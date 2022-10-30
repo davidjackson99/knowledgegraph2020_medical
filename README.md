@@ -26,4 +26,4 @@ Once skrmedpostctl and wsdserverctl are started you are ready to go.
 
 ## Files
 
-The test file including 10.000 PM abstracts (pubmed-coronaviru-set-2.txt) as well as the resulting KG files are located in the files folder.
+Resulting KG files are located in the files folder.
