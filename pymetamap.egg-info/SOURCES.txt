@@ -1,0 +1,6 @@
+pymetamap/setup.py
+pymetamap.egg-info/PKG-INFO
+pymetamap.egg-info/SOURCES.txt
+pymetamap.egg-info/dependency_links.txt
+pymetamap.egg-info/not-zip-safe
+pymetamap.egg-info/top_level.txt
